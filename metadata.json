@@ -1,0 +1,6 @@
+{
+  "name": "Tehreems Homebakes",
+  "description": "A premium, modern, and elegant website for Tehreems Homebakes, showcasing luxurious handcrafted cakes, cupcakes, cookies, brownies, and custom desserts baked with love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
